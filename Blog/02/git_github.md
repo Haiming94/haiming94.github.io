@@ -15,7 +15,7 @@
 
   `git status`
 
-![1572360399862](C:\Users\Henry.Wu\AppData\Roaming\Typora\typora-user-images\1572360399862.png)
+![1572360399862](.\images\1572360399862.png)
 
 上图说明，文件到“暂存区”，还没有commit, 经过commit 后就可以管理了。
 
@@ -66,7 +66,7 @@
 
 `git push [alias] [branch]`
 
-![1572369326665](C:\Users\Henry.Wu\AppData\Roaming\Typora\typora-user-images\1572369326665.png)
+![1572369326665](.\images\1572369326665.png)
 
-  ![1572369272547](C:\Users\Henry.Wu\AppData\Roaming\Typora\typora-user-images\1572369272547.png)
+  ![1572369272547](.\images\1572369272547.png)
 
