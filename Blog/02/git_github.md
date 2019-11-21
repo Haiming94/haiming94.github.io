@@ -26,8 +26,11 @@
   example:
 
   `touch runoob-text.txt 		# 添加文件
+  
   git add runoob-text.txt
+  
   git commit -m "添加到远程"
+  
   git push origin master 		# 推送到Github`
 
 ### 有效的一次操作
