@@ -2,7 +2,7 @@
 
 Welcome your visit to my personal githubpage. 这是我的个人主页，欢迎访问！
 
-https://prime-number.github.io/pages/
+https://prime-number.github.io/
 
 # contact
 
