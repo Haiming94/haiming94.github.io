@@ -7,3 +7,7 @@
 [fudan_mtl_reviews](https://github.com/FrankWork/fudan_mtl_reviews) 推荐原因，虽不是论文作者的代码，但是份代码充分考虑到数据读取等，规范化程度很好，有利于提高写代码的规范性。
 
 [AMF](https://github.com/hexiangnan/adversarial_personalized_ranking)
+
+[MACM](https://github.com/yifannie/MACM) IR code
+
+[Pages](https://github.com/qiuchili/qiuchili.github.io)
