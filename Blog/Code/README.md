@@ -12,4 +12,4 @@
 
 [Pages1](https://github.com/qiuchili/qiuchili.github.io), [Page2](https://wabyking.github.io/old.html)
 
-[Sentiment Analysis using deep learning approaches: an overview] (http://engine.scichina.com/publisher/scp/journal/SCIS/63/1/10.1007/S11432-018-9941-6?slug=fulltext) 总结了截止2018年以来的很多sentiment analysis方法，同时总结了已有的**数据集**，给出了完整的下载链接。
+[Sentiment Analysis using deep learning approaches: an overview](http://engine.scichina.com/publisher/scp/journal/SCIS/63/1/10.1007/S11432-018-9941-6?slug=fulltext) 总结了截止2018年以来的很多sentiment analysis方法，同时总结了已有的**数据集**，给出了完整的下载链接。
