@@ -14,3 +14,14 @@
 
 ***
 [Sentiment Analysis using deep learning approaches: an overview](http://engine.scichina.com/publisher/scp/journal/SCIS/63/1/10.1007/S11432-018-9941-6?slug=fulltext) 总结了截止2018年以来的很多sentiment analysis方法，同时总结了已有的**数据集**，给出了完整的下载链接。
+
+***
+信息检索系列相关内容：
+
+QA:[State of the art](https://aclweb.org/aclwiki/Question_Answering_(State_of_the_art))
+
+Dataset:
+
+[trecqa](https://github.com/castorini/data/blob/master/TrecQA/data/TEST.xml)
+
+[wikiqa](https://github.com/castorini/data/tree/master/WikiQA)
