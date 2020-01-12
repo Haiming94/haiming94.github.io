@@ -19,7 +19,7 @@
 
 QA:[State of the art](https://aclweb.org/aclwiki/Question_Answering_(State_of_the_art))
 
-Dataset: [trecqa](https://github.com/castorini/data/blob/master/TrecQA/data/TEST.xml), [wikiqa](https://github.com/castorini/data/tree/master/WikiQA)
+Dataset: [trecqa](https://github.com/castorini/data/blob/master/TrecQA), [wikiqa](https://github.com/castorini/data/tree/master/WikiQA)
 
 ***
 [Home Pages](https://github.com/haimingwu), [Pages1](https://github.com/qiuchili/qiuchili.github.io), [Page2](https://wabyking.github.io/old.html)
