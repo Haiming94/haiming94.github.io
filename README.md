@@ -2,7 +2,7 @@
 
 Welcome your visit to my personal githubpage. 这是我的个人主页，欢迎访问！
 
-https://haimingwu.github.io/
+https://haiming94.github.io/
 
 # contact
 
