@@ -21,5 +21,8 @@ QA:[State of the art](https://aclweb.org/aclwiki/Question_Answering_(State_of_th
 
 Dataset: [trecqa](https://github.com/castorini/data/blob/master/TrecQA), [wikiqa](https://github.com/castorini/data/tree/master/WikiQA)
 
+IR代码：\
+thunlp[KBNR](https://github.com/thunlp/Kernel-Based-Neural-Ranking-Models)
+
 ***
 [Home Pages](https://github.com/haimingwu), [Pages1](https://github.com/qiuchili/qiuchili.github.io), [Page2](https://wabyking.github.io/old.html)
